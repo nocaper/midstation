@@ -1,0 +1,6 @@
+# Node A example.
+role = writer
+device = /dev/riscv_shared_mem
+physical_address = 0x80000000
+map_size = 16M
+input = /path/to/input.txt

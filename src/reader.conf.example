@@ -1,0 +1,6 @@
+# Node B example.
+role = reader
+device = /dev/riscv_shared_mem
+physical_address = 0x90000000
+map_size = 16M
+input = /path/to/input.txt
